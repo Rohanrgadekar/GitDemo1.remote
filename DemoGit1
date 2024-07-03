@@ -1,0 +1,8 @@
+# This is the first git Demo lab. 
+# In this file we have all the command for git.
+git --version
+git init                       .... it create the local repository(.git) in working directory.
+git status                     .... it will show the status of git 
+git add (file name)            .... it will add the file to staging area in local repository (.git).
+git log                        .... it shows the all commit logs.
+git commit -m "message"        .... it save the any changes in the file with message and commit id
