@@ -9,3 +9,6 @@ git commit -m "message"        .... it save the any changes in the file with mes
 
 git config user.name "your name"   
 git config user.email "your emailId"   ...this two command help to set user name and email for specific repository only.
+
+git config --global user.name "rohan gadekar"
+git config --global user.email "rohangadekar2137@gmail.com"     ....This two command help to set user name and email globally.
