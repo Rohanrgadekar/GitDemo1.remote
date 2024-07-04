@@ -22,3 +22,7 @@ git push -u origin main               .... Push changes to the remote repository
 git remote -v                         .... View remote repositories.
 
 git remote add origin <Repo link -https://github.com/Rohanrgadekar/GitDemo1.remote.git>  .... Add local repository to Remote repository.   
+
+git merge <branch name>               .... The git merge command is used to merge specified branch into the current branch.
+
+
