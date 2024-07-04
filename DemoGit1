@@ -6,9 +6,15 @@ git status                     .... it will show the status of git
 git add (file name)            .... it will add the file to staging area in local repository (.git).
 git log                        .... it shows the all commit logs.
 git commit -m "message"        .... it save the any changes in the file with message and commit id
-
 git config user.name "your name"   
 git config user.email "your emailId"   ...this two command help to set user name and email for specific repository only.
 
 git config --global user.name "rohan gadekar"
 git config --global user.email "rohangadekar2137@gmail.com"     ....This two command help to set user name and email globally.
+
+git diff                              .... it show the what you added in the file difference before stagging .
+git diff --staged                     .... it show the what you added in the file difference between after stagging .
+git branch                            .... This command will list all the branches in the repository and highlight the current branch with an asterisk (*).
+git branch <branch name>              .... This command is used to create a new branch.
+git branch -d <branch-name>           .... This command used for delete the branch.
+git checkout                          .... To return to the previous branch in Git.
