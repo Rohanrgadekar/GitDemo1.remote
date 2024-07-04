@@ -18,3 +18,7 @@ git branch                            .... This command will list all the branch
 git branch <branch name>              .... This command is used to create a new branch.
 git branch -d <branch-name>           .... This command used for delete the branch.
 git checkout                          .... To return to the previous branch in Git.
+git push -u origin main               .... Push changes to the remote repository. 
+git remote -v                         .... View remote repositories.
+
+git remote add origin <Repo link -https://github.com/Rohanrgadekar/GitDemo1.remote.git>  .... Add local repository to Remote repository.   
