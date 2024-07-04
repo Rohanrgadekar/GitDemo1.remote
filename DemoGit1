@@ -24,5 +24,5 @@ git remote -v                         .... View remote repositories.
 git remote add origin <Repo link -https://github.com/Rohanrgadekar/GitDemo1.remote.git>  .... Add local repository to Remote repository.   
 
 git merge <branch name>               .... The git merge command is used to merge specified branch into the current branch.
-
-
+git pull origin main                  .... This will pull changes from the origin remote repository and merge them into your current branch.
+git clone                             .... Used To pull a remote public repository to your local machine. this command creates a local copy of the remote repository.
