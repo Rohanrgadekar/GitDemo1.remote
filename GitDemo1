@@ -9,8 +9,8 @@ git commit -m "message"        .... it save the any changes in the file with mes
 git config user.name "your name"   
 git config user.email "your emailId"   ...this two command help to set user name and email for specific repository only.
 
-git config --global user.name "rohan gadekar"
-git config --global user.email "rohangadekar2137@gmail.com"     ....This two command help to set user name and email globally.
+git config --global user.name "ro.. ..r"
+git config --global user.email "...@gmail.com"     ....This two command help to set user name and email globally.
 
 git diff                              .... it show the what you added in the file difference before stagging .
 git diff --staged                     .... it show the what you added in the file difference between after stagging .
@@ -21,7 +21,7 @@ git checkout <branch-name>            ....  Switch to the  branch you want in Gi
 git push -u origin main               .... Push changes to the remote repository. 
 git remote -v                         .... View remote repositories.
 
-git remote add origin <Repo link -https://github.com/Rohanrgadekar/GitDemo1.remote.git>  .... Add local repository to Remote repository.   
+git remote add origin <Repo link -https://github>  .... Add local repository to Remote repository.   
 
 git merge <branch name>               .... The git merge command is used to merge specified branch into the current branch.
 git pull origin main                  .... This will pull changes from the origin remote repository and merge them into your current branch.
