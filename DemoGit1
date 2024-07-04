@@ -17,7 +17,7 @@ git diff --staged                     .... it show the what you added in the fil
 git branch                            .... This command will list all the branches in the repository and highlight the current branch with an asterisk (*).
 git branch <branch name>              .... This command is used to create a new branch.
 git branch -d <branch-name>           .... This command used for delete the branch.
-git checkout                          .... To return to the previous branch in Git.
+git checkout <branch-name>            ....  Switch to the  branch you want in Git.
 git push -u origin main               .... Push changes to the remote repository. 
 git remote -v                         .... View remote repositories.
 
